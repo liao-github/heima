@@ -14,8 +14,9 @@
     <groupId>com.example</groupId>
     <artifactId>SpringBoot_base_config</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SpringBoot_xxxx</name>
-    <description>SpringBoot_xxxx</description>
+<!--    <name>SpringBoot_xxxx</name>-->
+<!--    <description>SpringBoot_xxxx</description>-->
+<!--    没用-->
     <properties>
         <java.version>1.8</java.version>
     </properties>
